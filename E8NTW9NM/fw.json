@@ -1,8 +1,4 @@
 {
-    "type": "esp32-fota-https",
-    "version": 2,
-    "host": "raw.githubusercontent.com",
-    "port": 443,
-    "bin": "/surajkushwahakte/keep/main/E8NTW9NM/fw.bin"
+
 }
 
